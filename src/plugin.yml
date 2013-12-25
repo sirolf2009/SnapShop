@@ -1,0 +1,9 @@
+name: SnapShop
+version: 0.1
+description: A shop plugin for the SnapCraft server
+author: sirolf2009
+<nowiki>website: http://snapcraft.net/index.php</nowiki>
+ 
+main: com.sirolf2009.snapshop.SnapShop
+database: false
+depend: [Vault, Essentials]
